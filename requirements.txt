@@ -1,0 +1,4 @@
+PyQt6>=6.6
+Pillow>=10.0
+hypothesis>=6.100
+pytest>=8.0
